@@ -3,4 +3,4 @@ adding this new line to test a git pull
 I'm loving this
 Discarding this line
 this is testing git stah
-hello
+ hello hello
